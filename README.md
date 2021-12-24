@@ -6,4 +6,4 @@ Este proyecto fue generado con un template de http://www.initializr.com/ con el 
 //Enjemplo para probar commit -am
 
 
-Nueva linea agregada para hacr un push en github
+Nueva linea agregada para hacer un push en github
